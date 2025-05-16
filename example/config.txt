@@ -1,0 +1,2 @@
+Prefix plugins/ScatterEllipse/example/
+Plugin ScatterEllipse inputfile iris.csv outputfile output.png
